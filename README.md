@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+![](./ml1.png)
 
 
 ## Result:
