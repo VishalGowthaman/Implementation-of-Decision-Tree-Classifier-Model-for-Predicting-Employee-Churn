@@ -17,8 +17,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: VISHAL GOWTHAMAN K R
+RegisterNumber:  212221230123
 */
 ```
 
@@ -31,6 +31,8 @@ RegisterNumber:
 ![](./ml3.png)
 ## LEFT:
 ![](./ml4.png)
+## HEAD USING LABELENCODER:
+![](./ml5.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
