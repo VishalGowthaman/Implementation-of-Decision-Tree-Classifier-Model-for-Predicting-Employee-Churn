@@ -23,8 +23,14 @@ RegisterNumber:
 ```
 
 ## Output:
+## HEAD:
 ![](./ml1.png)
-
+## INFO:
+![](./ml2.png)
+## ISNULL:
+![](./ml3.png)
+## LEFT:
+![](./ml4.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
